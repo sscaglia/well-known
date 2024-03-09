@@ -55,6 +55,17 @@
     "description": "Pay-per-message for public or pay-per-month for private and additional support."
   },
   {
+    "name": "IoT-LoRaWAN",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/iot-lorawan.png",
+    "logoVector": null,
+    "url": "https://www.iot-lorawan.com",
+    "companyHQ": ["USA"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Public"],
+    "serverLocation": ["USA"],
+    "description": "Pay-per-message for public use."
+  },
+  {
     "name": "MeteoScientific",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/meteo-scientific.png",
     "logoVector": null,
